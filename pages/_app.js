@@ -1,6 +1,5 @@
 import '../styles/globals.css';
 import 'prismjs/themes/prism-tomorrow.css';
-import '../styles/imagecarousell.css';
 
 function MyApp({ Component, pageProps }) {
   return (
