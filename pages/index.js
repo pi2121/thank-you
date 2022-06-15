@@ -7,7 +7,6 @@ import Layout, { GradientBackground } from '../components/Layout';
 import ArrowIcon from '../components/ArrowIcon';
 import { getGlobalData } from '../utils/global-data';
 import SEO from '../components/SEO';
-import imagecarousell from '../utils/imagecarousell';
 
 export default function Index({ posts, globalData }) {
   return (
